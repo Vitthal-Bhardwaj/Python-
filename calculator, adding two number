@@ -1,0 +1,3 @@
+a=int(input("please give the number - ")
+b= int(input("pleae give another number -")
+print(a+b)
